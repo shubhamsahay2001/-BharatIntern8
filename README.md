@@ -1,2 +1,2 @@
-# -BharatIntern8
-Combining HTML, CSS, and JS, I've brought my creative vision to life digitally
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
